@@ -1,0 +1,13 @@
+body {
+    background-image: url("./IMG_2622.gif");
+    background-size: cover;
+}
+a {
+    color: aqua;
+    font-size: 20px
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+/* time to see if background images work
